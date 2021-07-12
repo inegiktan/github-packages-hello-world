@@ -1,5 +1,5 @@
 {
-  "name": "github-packages-hello-world",
+  "name": "@inegiktan/github-packages-hello-world",
   "version": "1.0.0",
   "description": "hola mundo con github packages",
   "main": "index.js",
