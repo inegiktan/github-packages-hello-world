@@ -1,0 +1,15 @@
+{
+  "name": "github-packages-hello-world",
+  "version": "1.0.0",
+  "description": "hola mundo con github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/inegiktan/github-packages-hello-world.git",
+  "author": "",
+  "license": "ISC"
+}
